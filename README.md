@@ -1,2 +1,2 @@
 # JS-Project
-This is the basic project .
+This is basic project .
